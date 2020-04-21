@@ -1,0 +1,13 @@
+E:\Development\DDD\FrontDeskSolution\SharedKernel.UnitTests\bin\Debug\SharedKernel.UnitTests.dll
+E:\Development\DDD\FrontDeskSolution\SharedKernel.UnitTests\bin\Debug\SharedKernel.UnitTests.pdb
+E:\Development\DDD\FrontDeskSolution\SharedKernel.UnitTests\bin\Debug\FrontDesk.SharedKernel.dll
+E:\Development\DDD\FrontDeskSolution\SharedKernel.UnitTests\bin\Debug\nunit.framework.dll
+E:\Development\DDD\FrontDeskSolution\SharedKernel.UnitTests\bin\Debug\StructureMap.dll
+E:\Development\DDD\FrontDeskSolution\SharedKernel.UnitTests\bin\Debug\FrontDesk.SharedKernel.pdb
+E:\Development\DDD\FrontDeskSolution\SharedKernel.UnitTests\bin\Debug\nunit.framework.xml
+E:\Development\DDD\FrontDeskSolution\SharedKernel.UnitTests\bin\Debug\StructureMap.pdb
+E:\Development\DDD\FrontDeskSolution\SharedKernel.UnitTests\bin\Debug\StructureMap.xml
+E:\Development\DDD\FrontDeskSolution\SharedKernel.UnitTests\obj\Debug\SharedKernel.UnitTests.csprojAssemblyReference.cache
+E:\Development\DDD\FrontDeskSolution\SharedKernel.UnitTests\obj\Debug\SharedKernel.UnitTests.csproj.CopyComplete
+E:\Development\DDD\FrontDeskSolution\SharedKernel.UnitTests\obj\Debug\SharedKernel.UnitTests.dll
+E:\Development\DDD\FrontDeskSolution\SharedKernel.UnitTests\obj\Debug\SharedKernel.UnitTests.pdb

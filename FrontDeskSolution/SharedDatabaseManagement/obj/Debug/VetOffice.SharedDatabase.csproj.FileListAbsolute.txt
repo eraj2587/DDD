@@ -1,0 +1,16 @@
+E:\Development\DDD\FrontDeskSolution\SharedDatabaseManagement\bin\Debug\SharedDatabaseManagement.dll.config
+E:\Development\DDD\FrontDeskSolution\SharedDatabaseManagement\bin\Debug\SharedDatabaseManagement.dll
+E:\Development\DDD\FrontDeskSolution\SharedDatabaseManagement\bin\Debug\SharedDatabaseManagement.pdb
+E:\Development\DDD\FrontDeskSolution\SharedDatabaseManagement\bin\Debug\EntityFramework.dll
+E:\Development\DDD\FrontDeskSolution\SharedDatabaseManagement\bin\Debug\EntityFramework.SqlServer.dll
+E:\Development\DDD\FrontDeskSolution\SharedDatabaseManagement\bin\Debug\FrontDesk.SharedKernel.dll
+E:\Development\DDD\FrontDeskSolution\SharedDatabaseManagement\bin\Debug\StructureMap.dll
+E:\Development\DDD\FrontDeskSolution\SharedDatabaseManagement\bin\Debug\FrontDesk.SharedKernel.pdb
+E:\Development\DDD\FrontDeskSolution\SharedDatabaseManagement\bin\Debug\EntityFramework.xml
+E:\Development\DDD\FrontDeskSolution\SharedDatabaseManagement\bin\Debug\EntityFramework.SqlServer.xml
+E:\Development\DDD\FrontDeskSolution\SharedDatabaseManagement\bin\Debug\StructureMap.pdb
+E:\Development\DDD\FrontDeskSolution\SharedDatabaseManagement\bin\Debug\StructureMap.xml
+E:\Development\DDD\FrontDeskSolution\SharedDatabaseManagement\obj\Debug\VetOffice.SharedDatabase.csprojAssemblyReference.cache
+E:\Development\DDD\FrontDeskSolution\SharedDatabaseManagement\obj\Debug\VetOffice.SharedDatabase.csproj.CopyComplete
+E:\Development\DDD\FrontDeskSolution\SharedDatabaseManagement\obj\Debug\SharedDatabaseManagement.dll
+E:\Development\DDD\FrontDeskSolution\SharedDatabaseManagement\obj\Debug\SharedDatabaseManagement.pdb

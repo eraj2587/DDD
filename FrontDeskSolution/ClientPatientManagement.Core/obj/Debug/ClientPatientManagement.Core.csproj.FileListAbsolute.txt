@@ -1,0 +1,13 @@
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Core\bin\Debug\ClientPatientManagement.Core.dll
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Core\bin\Debug\ClientPatientManagement.Core.pdb
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Core\bin\Debug\Common.dll
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Core\bin\Debug\FrontDesk.SharedKernel.dll
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Core\bin\Debug\StructureMap.dll
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Core\bin\Debug\FrontDesk.SharedKernel.pdb
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Core\bin\Debug\Common.pdb
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Core\bin\Debug\StructureMap.pdb
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Core\bin\Debug\StructureMap.xml
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Core\obj\Debug\ClientPatientManagement.Core.csprojAssemblyReference.cache
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Core\obj\Debug\ClientPatientManagement.Core.csproj.CopyComplete
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Core\obj\Debug\ClientPatientManagement.Core.dll
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Core\obj\Debug\ClientPatientManagement.Core.pdb

@@ -1,0 +1,9 @@
+E:\Development\DDD\FrontDeskSolution\FrontDesk.SharedKernel\bin\Debug\FrontDesk.SharedKernel.dll
+E:\Development\DDD\FrontDeskSolution\FrontDesk.SharedKernel\bin\Debug\FrontDesk.SharedKernel.pdb
+E:\Development\DDD\FrontDeskSolution\FrontDesk.SharedKernel\bin\Debug\StructureMap.dll
+E:\Development\DDD\FrontDeskSolution\FrontDesk.SharedKernel\bin\Debug\StructureMap.pdb
+E:\Development\DDD\FrontDeskSolution\FrontDesk.SharedKernel\bin\Debug\StructureMap.xml
+E:\Development\DDD\FrontDeskSolution\FrontDesk.SharedKernel\obj\Debug\FrontDesk.SharedKernel.csprojAssemblyReference.cache
+E:\Development\DDD\FrontDeskSolution\FrontDesk.SharedKernel\obj\Debug\FrontDesk.SharedKernel.csproj.CopyComplete
+E:\Development\DDD\FrontDeskSolution\FrontDesk.SharedKernel\obj\Debug\FrontDesk.SharedKernel.dll
+E:\Development\DDD\FrontDeskSolution\FrontDesk.SharedKernel\obj\Debug\FrontDesk.SharedKernel.pdb

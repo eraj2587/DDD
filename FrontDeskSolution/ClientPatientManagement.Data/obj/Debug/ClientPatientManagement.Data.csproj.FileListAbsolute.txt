@@ -1,0 +1,17 @@
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Data\bin\Debug\ClientPatientManagement.Data.dll
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Data\bin\Debug\ClientPatientManagement.Data.pdb
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Data\bin\Debug\ClientPatientManagement.Core.dll
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Data\bin\Debug\EntityFramework.dll
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Data\bin\Debug\FrontDesk.SharedKernel.dll
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Data\bin\Debug\StructureMap.dll
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Data\bin\Debug\ClientPatientManagement.Core.pdb
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Data\bin\Debug\FrontDesk.SharedKernel.pdb
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Data\bin\Debug\EntityFramework.xml
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Data\bin\Debug\StructureMap.pdb
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Data\bin\Debug\StructureMap.xml
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Data\obj\Debug\ClientPatientManagement.Data.csprojAssemblyReference.cache
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Data\obj\Debug\ClientPatientManagement.Data.csproj.CopyComplete
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Data\obj\Debug\ClientPatientManagement.Data.dll
+E:\Development\DDD\FrontDeskSolution\ClientPatientManagement.Data\obj\Debug\ClientPatientManagement.Data.pdb

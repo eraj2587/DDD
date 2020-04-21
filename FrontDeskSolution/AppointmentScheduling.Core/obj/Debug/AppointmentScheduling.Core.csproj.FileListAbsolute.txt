@@ -1,0 +1,11 @@
+E:\Development\DDD\FrontDeskSolution\AppointmentScheduling.Core\bin\Debug\AppointmentScheduling.Core.dll
+E:\Development\DDD\FrontDeskSolution\AppointmentScheduling.Core\bin\Debug\AppointmentScheduling.Core.pdb
+E:\Development\DDD\FrontDeskSolution\AppointmentScheduling.Core\bin\Debug\FrontDesk.SharedKernel.dll
+E:\Development\DDD\FrontDeskSolution\AppointmentScheduling.Core\bin\Debug\StructureMap.dll
+E:\Development\DDD\FrontDeskSolution\AppointmentScheduling.Core\bin\Debug\FrontDesk.SharedKernel.pdb
+E:\Development\DDD\FrontDeskSolution\AppointmentScheduling.Core\bin\Debug\StructureMap.pdb
+E:\Development\DDD\FrontDeskSolution\AppointmentScheduling.Core\bin\Debug\StructureMap.xml
+E:\Development\DDD\FrontDeskSolution\AppointmentScheduling.Core\obj\Debug\AppointmentScheduling.Core.csprojAssemblyReference.cache
+E:\Development\DDD\FrontDeskSolution\AppointmentScheduling.Core\obj\Debug\AppointmentScheduling.Core.csproj.CopyComplete
+E:\Development\DDD\FrontDeskSolution\AppointmentScheduling.Core\obj\Debug\AppointmentScheduling.Core.dll
+E:\Development\DDD\FrontDeskSolution\AppointmentScheduling.Core\obj\Debug\AppointmentScheduling.Core.pdb
